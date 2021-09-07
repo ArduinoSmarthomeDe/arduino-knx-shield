@@ -9,7 +9,7 @@
 
 MIT License
 
-Copyright (c) 2021 André Husken
+Copyright (c) 2021 André Husken – www.arduino-smarthome.de
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
