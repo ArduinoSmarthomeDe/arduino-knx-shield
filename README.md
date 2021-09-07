@@ -4,6 +4,14 @@
 
 ![alt text](https://github.com/ArduinoSmarthomeDe/arduino-knx-shield/blob/main/Arduino_KNX_Shield.png "Arduino Uno KNX Shield")
 
+## Parts
+
+| ID        | Are                     | Link  |
+| --------- |:-----------------------:| -----:|
+| U1        | Siemens TP-Uart         | http://www.opternus.com/de/siemens/knx-chipset/knx-transceiver-ics-tp-uart-fze1066.html |
+| D2        | P4SMAJ43A               |   https://www.reichelt.de/tvs-diode-unidirektional-43-v-400-w-do-214ac-sma-p4smaj43a-p272910.html?search=P4SMAJ43A |
+| D3        | RND US1M-AT             |   https://www.reichelt.de/gleichrichterdiode-1000-v-1-a-do-214ac-sma-us-1m-p146618.html?search=US1M |
+| ...       | ...                     | ....  |
 
 ## License
 
