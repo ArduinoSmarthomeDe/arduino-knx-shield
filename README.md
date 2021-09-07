@@ -1,6 +1,6 @@
 # Arduino Uno KNX TP-UART Shield
 
-DIY shield for the Arduino Uno for the isolated connection of a KNX-bus to the microcontroller. Uses the first version of the Siemens TP-UART chip, which is very easy to solder by hand. In addition, there are 6 LEDs and 2 buttons on board for test purposes (e.g. for testing / sending and receiving KNX group addresses). The serial interface of the Arduino can be separated from the TP-UART chip via a DIP switch (for programming purposes) or can be mapped to separate software pins.
+Arduino Uno shield for the isolated connection of a KNX-bus (smarthome) to the microcontroller. Uses the first version of the Siemens TP-UART chip, which is very easy to solder by hand. In addition, there are 6 LEDs and 2 buttons on board for test purposes (e.g. for testing / sending and receiving KNX group addresses). The serial interface of the Arduino can be separated from the TP-UART chip via a DIP switch (for programming purposes) or can be mapped to separate software pins.
 
 ## Preview
 
