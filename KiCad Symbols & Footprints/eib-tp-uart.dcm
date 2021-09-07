@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EIB-TP-UART
+D KNX TP-UART
+F http://www.opternus.com/uploads/media/TPUART1_Datenblatt_20130806.pdf
+$ENDCMP
+#
+#End Doc Library
