@@ -6,7 +6,9 @@ DIY shield for connecting the KNX bus to an Arduino Uno. Uses the first version 
 
 The serial hardware interface (RX / TX), which is also used by the Arduino Uno from the USB port, can simply be separated from the TP-UART chip using a DIP switch. Alternatively, the serial interface of the TP-UART can be switched to software serial pins or is accessed on a connector.
 
-*Note: This is just a DIY board, so there is no official KNX stack to configure via the ETS software.*
+*This is just a DIY board, so there is no official KNX stack to configure via the ETS software.*
+
+**NOTICE: The shield fits best on an Arduino Uno with a micro USB connector. Otherwise it can lead to problems with USB Type A connector.**
 
 ## Preview
 
