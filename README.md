@@ -6,6 +6,8 @@ DIY shield for connecting the KNX bus to an Arduino Uno. Uses the first version 
 
 The serial hardware interface (RX / TX), which is also used by the Arduino Uno from the USB port, can simply be separated from the TP-UART chip using a DIP switch. Alternatively, the serial interface of the TP-UART can be switched to software serial pins or is accessed on a connector.
 
+*Note: This is just a DIY board, so there is no official KNX stack to configure via the ETS software.*
+
 ## Preview
 
 A little look at the finished circuit board (3D model):
@@ -27,5 +29,17 @@ Some parts are a hard to come by, so here is a short overview of known distribut
 
 You can find all the open data here as a [KiCad](http://kicad.github.io) project. You can find all the necessary dependencies such as footprints or libraries in the folder **KiCad Symbols & Footprints**.
 
+The *Gerber files* for the production of the board can be found here under **releases**.
+
 ## License
+
+The MIT License (MIT)
+
+Copyright (c) 2021 André Husken hello@arduino-smarthome.de
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
