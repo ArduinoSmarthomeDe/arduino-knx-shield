@@ -1022,7 +1022,7 @@
   (gr_text AREF (at 152.146 71.247 90) (layer F.SilkS) (tstamp 5D98AC61)
     (effects (font (size 0.7 0.7) (thickness 0.1)) (justify right))
   )
-  (gr_text "© 2021 André Husken | V.2.1\nwww.arduino-smarthome.de" (at 141.3891 93.4212 270) (layer F.SilkS) (tstamp 5DCF0768)
+  (gr_text "© 2021 André Husken | V.2.2\nwww.arduino-smarthome.de" (at 141.3891 93.4212 270) (layer F.SilkS) (tstamp 5DCF0768)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (gr_line (start 194.31 80.01) (end 196.789999 82.55) (layer Edge.Cuts) (width 0.2))
