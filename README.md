@@ -12,7 +12,7 @@ The serial hardware interface (RX / TX), which is also used by the Arduino Uno f
 
 A little look at the finished circuit board (3D model):
 
-![](https://github.com/ArduinoSmarthomeDe/arduino-knx-shield/blob/main/Arduino_KNX_Shield.jpg)
+![](https://github.com/ArduinoSmarthomeDe/arduino-knx-shield/blob/main/preview.jpg)
 
 ## Parts
 
